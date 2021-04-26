@@ -1,5 +1,5 @@
 # JustJava
-Proyecto propuesto en el curso Android Basic User input en Udacity.
+Proyecto propuesto en el curso Android Basic User input en Udacity.com
 
 Realizado en Android Studio con Java.
 
