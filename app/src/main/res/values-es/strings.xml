@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="Name">Nombre</string>
+    <string name="Toppings">Ingredientes para tu cafe</string>
+    <string name="Whipped_cream">Crema batida</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Cantidad de tazas</string>
+    <string name="ORDER">ORDENAR</string>
+    <string name="email_subject">"Solo Java orden de cafe por "</string>
+</resources>

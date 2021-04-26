@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <!-- activity_main.xml texts -->
+    <string name="Name">Name</string>
+    <string name="Toppings">Coffee Toppings</string>
+    <string name="Whipped_cream">Whipped cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Quantity of cups</string>
+    <string name="ORDER">ORDER</string>
+
+    <!-- MainActivity.java texts -->
+    <string name="email_subject">"Just Java coffee order by "</string>
+
+</resources>
